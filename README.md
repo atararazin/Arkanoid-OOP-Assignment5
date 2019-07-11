@@ -7,6 +7,10 @@ Aside from the source code, I have uploaded the JAR file itself, so that the fin
 
 Reminder: make sure you have a JRE on your computer in order for it to run!
 
+## To see more of this project
+Take a look at the previous edition of this game in my repositories - Arkanoid-Base. To see the final edition, take a look at Arkanoid-Final.
+
+
 Have Fun!
 
 ![alt text](https://github.com/atararazin/Arkanoid-Part-2/blob/master/arkanoid%20rainbow%20level.jpg)
